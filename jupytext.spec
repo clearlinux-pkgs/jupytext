@@ -4,7 +4,7 @@
 #
 Name     : jupytext
 Version  : 1.13.2
-Release  : 2
+Release  : 3
 URL      : https://files.pythonhosted.org/packages/79/c1/3a243f3fea862fc8916386263490277ed85db5e05420cf95cb7ba96b5b81/jupytext-1.13.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/79/c1/3a243f3fea862fc8916386263490277ed85db5e05420cf95cb7ba96b5b81/jupytext-1.13.2.tar.gz
 Summary  : Jupyter notebooks as Markdown documents, Julia, Python or R scripts
